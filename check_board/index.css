@@ -1,0 +1,29 @@
+.container{
+    width:800px;
+    border: 20px groove rgba(6, 71, 6, 0.637);
+    height: 800px;
+    margin: auto;
+    margin-top: 50px;
+}
+.box1{
+    width:100px;
+    height:100px;
+    background-color: #eeeed2 ;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+    font-size:70px;
+    
+}
+.box2{
+    width:100px;
+    height: 100px;
+    background-color: #769656;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+    font-size:70px;
+}
+.clear{
+    clear: both;
+}
